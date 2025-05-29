@@ -19,7 +19,7 @@ redirect_from:
 </small>
 
 <span style="color:gray"><small>Mar. 2011 - Aug. 2015</small></span>  
-**B.S. in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Souel, Korea**  
+**B.S. in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Seoul, Korea**  
 <small>
    &nbsp;&nbsp;&bull; Department of Electrical and Electronics  
 </small>
