@@ -26,11 +26,18 @@ redirect_from:
 
 ***
 # Work Experience
-<span style="color:gray"><small>May. 2024 - Present</small></span>  
-**Research Scientist**, **[Meta AI](https://ai.facebook.com/), Seattle, Washington, USA**  
+<span style="color:gray"><small>Feb. 2026 - Present</small></span>  
+**Senior Research Scientist**, **[Meta AI](https://ai.facebook.com/), New York, NY, USA**  
 <small>
   &nbsp;&nbsp;&bull; Presently researching expressive conversational AI voice agent.  
   &nbsp;&nbsp;&bull; Presently researching expressive speech-to-speech translation system.
+</small>
+
+<span style="color:gray"><small>May. 2024 - Jan. 2026</small></span>  
+**Research Scientist**, **[Meta AI](https://ai.facebook.com/), Seattle, Washington, USA**  
+<small>
+  &nbsp;&nbsp;&bull; Researched expressive conversational AI voice agent.  
+  &nbsp;&nbsp;&bull; Researched expressive speech-to-speech translation system.
 </small>
 
 <span style="color:gray"><small>Oct. 2022 - May. 2024</small></span>  

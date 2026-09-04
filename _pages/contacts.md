@@ -16,4 +16,4 @@ redirect_from:
 <small>&nbsp;hmj234@gmail.com</small>  
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> **Address (office)**  
-<small>&nbsp;1101 Dexter Ave N&#xa;Seattle, WA 98109&#xa;United States of America</small>  
+<small>&nbsp;390 9th Ave&#xa;New York, NY 10001&#xa;United States of America</small>  
