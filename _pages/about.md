@@ -25,6 +25,8 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: 9/2026 : Our new paper<sup>[1](https://arxiv.org/abs/2609.03992)</sup> on Alignment-Free Text-Audiobox for voice dubbing and full-duplex dialogue synthesis is now available on [arXiv](https://arxiv.org/abs/2609.03992)!
+<br>
 :heavy_check_mark: 1/2025 : One paper<sup>[1](https://www.nature.com/articles/s41586-024-08359-z)</sup> has been accepted to [Nature Magazine](https://www.nature.com/).
 <br>
 :heavy_check_mark: 5/2024 : One paper<sup>[1](https://arxiv.org/abs/2406.02733)</sup> has been accepted to [Findings of ACL 2024](https://2024.aclweb.org/).
@@ -62,13 +64,17 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
+- [Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992)  
+  <small>Sanyuan Chen, __Min-Jae Hwang__, Sho Inoue, Anna Sun, Bokai Yu, David Kant, Dongmin Hyun, Dorian Desblancs, Gregory Antonovsky, Oleg Repin, Peng-Jen Chen, Xutai Ma, Zehai Tu, Juan Pino, Wei-Ning Hsu</small>  
+  <small>Preprint on [arXiv](https://arxiv.org/abs/2609.03992)</small>
+
 - [Joint speech and text machine translation for up to 100 languages](https://www.nature.com/articles/s41586-024-08359-z)  
   <small>Seamless Communication Team</small>  
   <small>Published in [Nature Magazine](https://www.nature.com/)</small>
 
 - [Characterizing and Efficiently Accelerating Multimodal Generation Model Inference](https://arxiv.org/abs/2410.00215)  
   <small>Yejin Lee, Anna Sun, Basil Hosmer, Bilge Acun, Can Balioglu, Changhan Wang, Charles David Hernandez, Christian Puhrsch, Daniel Haziza, Driss Guessous, Francisco Massa, Jacob Kahn, Jeffrey Wan, Jeremy Reizenstein, Jiaqi Zhai, Joe Isaacson, Joel Schlosser, Juan Pino, Kaushik Ram Sadagopan, Leonid Shamis, Linjian Ma, __Min-Jae Hwang__, Mingda Chen, Mostafa Elhoushi, Pedro Rodriguez, Ram Pasunuru, Scott Yih, Sravya Popuri, Xing Liu, Carole-Jean Wu</small>  
-  <small>Submitted to [HPCA 2025 Industry Track](https://hpca-conf.org/2025/)</small>  
+  <small>Published in [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) (Vol. 45, Issue 5, Sept.-Oct. 2025)</small>  
 
 - [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://arxiv.org/abs/2406.02733)  
   <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  
