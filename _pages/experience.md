@@ -63,7 +63,7 @@ redirect_from:
 </small>
 
 ***
-# Academic Activites
+# Academic Activities
 **Reviewer**  
 <small>
   &nbsp;&nbsp;&bull; 2022 Interspeech, *2022*  
