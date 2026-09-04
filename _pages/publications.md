@@ -19,8 +19,6 @@ author_profile: true
   <small>Sanyuan Chen, __Min-Jae Hwang__, Sho Inoue, Anna Sun, Bokai Yu, David Kant, Dongmin Hyun, Dorian Desblancs, Gregory Antonovsky, Oleg Repin, Peng-Jen Chen, Xutai Ma, Zehai Tu, Juan Pino, Wei-Ning Hsu</small>  
   <small>Preprint on [arXiv](https://arxiv.org/abs/2609.03992)</small>  
 
-- [Seamless: Multilingual Expressive and Streaming Speech Translation]
-
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
   <small>Seamless Communication Team</small>
 
