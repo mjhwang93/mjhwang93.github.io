@@ -64,31 +64,10 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
-- [Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992)  
-  <small>Sanyuan Chen, __Min-Jae Hwang__, Sho Inoue, Anna Sun, Bokai Yu, David Kant, Dongmin Hyun, Dorian Desblancs, Gregory Antonovsky, Oleg Repin, Peng-Jen Chen, Xutai Ma, Zehai Tu, Juan Pino, Wei-Ning Hsu</small>  
-  <small>Preprint on [arXiv](https://arxiv.org/abs/2609.03992)</small>
+{% for group in site.data.publications %}{% for pub in group.papers %}{% if pub.highlight %}- [{{ pub.title }}]({{ pub.url }})  
+  <small>{{ pub.authors | replace: '%ME%', '__Min-Jae Hwang__' }}</small>{% if pub.venue %}  
+  <small>{{ pub.status | default: 'Published in' }}{% if pub.venue_prefix %} {{ pub.venue_prefix }}{% endif %} [{{ pub.venue }}]({{ pub.venue_url }}){% if pub.venue_note %} {{ pub.venue_note }}{% endif %}{% if pub.extra %} {{ pub.extra }}{% endif %}</small>{% endif %}
 
-- [Joint speech and text machine translation for up to 100 languages](https://www.nature.com/articles/s41586-024-08359-z)  
-  <small>Seamless Communication Team</small>  
-  <small>Published in [Nature Magazine](https://www.nature.com/)</small>
-
-- [Characterizing and Efficiently Accelerating Multimodal Generation Model Inference](https://arxiv.org/abs/2410.00215)  
-  <small>Yejin Lee, Anna Sun, Basil Hosmer, Bilge Acun, Can Balioglu, Changhan Wang, Charles David Hernandez, Christian Puhrsch, Daniel Haziza, Driss Guessous, Francisco Massa, Jacob Kahn, Jeffrey Wan, Jeremy Reizenstein, Jiaqi Zhai, Joe Isaacson, Joel Schlosser, Juan Pino, Kaushik Ram Sadagopan, Leonid Shamis, Linjian Ma, __Min-Jae Hwang__, Mingda Chen, Mostafa Elhoushi, Pedro Rodriguez, Ram Pasunuru, Scott Yih, Sravya Popuri, Xing Liu, Carole-Jean Wu</small>  
-  <small>Published in [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) (Vol. 45, Issue 5, Sept.-Oct. 2025)</small>  
-
-- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://arxiv.org/abs/2406.02733)  
-  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  
-  <small>Published in [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
-
-- [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
-  <small>Seamless Communication Team</small>
-
-- [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
-  <small>Seamless Communication Team</small>
-
-- [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
-  <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
-  <small>Published in [NeurIPS 2022](https://nips.cc/)</small>  
-
+{% endif %}{% endfor %}{% endfor %}
 <!-- ***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->

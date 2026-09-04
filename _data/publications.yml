@@ -1,0 +1,166 @@
+# Publication list rendered by _pages/publications.md and _pages/about.md.
+# Each group is a section (kept in display order). Per-paper fields:
+#   title       (required)
+#   url         (required) link target for the title
+#   authors     (required) use %ME% where your own name should appear; it is
+#               rendered bold automatically. Use \* for equal-contribution marks.
+#   status      venue prefix word(s); defaults to "Published in"
+#   venue       venue display name (omit the whole line for entries with no venue)
+#   venue_url   link target for the venue name
+#   venue_prefix optional text between status and the venue link (e.g. "Proceedings of")
+#   venue_note  optional trailing text after the venue link (e.g. journal volume/IF)
+#   extra       optional trailing markdown after the venue (e.g. a [[video]] link)
+#   highlight   if true, also shown in the "Recent Publications" list on the about page
+
+- section: Preprints
+  hr_after: true
+  papers:
+    - title: "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis"
+      url: "https://arxiv.org/abs/2609.03992"
+      authors: 'Sanyuan Chen, %ME%, Sho Inoue, Anna Sun, Bokai Yu, David Kant, Dongmin Hyun, Dorian Desblancs, Gregory Antonovsky, Oleg Repin, Peng-Jen Chen, Xutai Ma, Zehai Tu, Juan Pino, Wei-Ning Hsu'
+      highlight: true
+    - title: "Seamless: Multilingual Expressive and Streaming Speech Translation"
+      url: "https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/"
+      authors: "Seamless Communication Team"
+      highlight: true
+    - title: "SeamlessM4T—Massively Multilingual & Multimodal Machine Translation"
+      url: "https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/"
+      authors: "Seamless Communication Team"
+      highlight: true
+
+- section: "2025"
+  papers:
+    - title: "Joint speech and text machine translation for up to 100 languages"
+      url: "https://www.nature.com/articles/s41586-024-08359-z"
+      authors: "Seamless Communication Team"
+      venue: "Nature Magazine"
+      venue_url: "https://www.nature.com/"
+      highlight: true
+    - title: "Characterizing and Efficiently Accelerating Multimodal Generation Model Inference"
+      url: "https://arxiv.org/abs/2410.00215"
+      authors: 'Yejin Lee, Anna Sun, Basil Hosmer, Bilge Acun, Can Balioglu, Changhan Wang, Charles David Hernandez, Christian Puhrsch, Daniel Haziza, Driss Guessous, Francisco Massa, Jacob Kahn, Jeffrey Wan, Jeremy Reizenstein, Jiaqi Zhai, Joe Isaacson, Joel Schlosser, Juan Pino, Kaushik Ram Sadagopan, Leonid Shamis, Linjian Ma, %ME%, Mingda Chen, Mostafa Elhoushi, Pedro Rodriguez, Ram Pasunuru, Scott Yih, Sravya Popuri, Xing Liu, Carole-Jean Wu'
+      venue: "IEEE Micro"
+      venue_url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40"
+      venue_note: "(Vol. 45, Issue 5, Sept.-Oct. 2025)"
+      highlight: true
+
+- section: "2024"
+  papers:
+    - title: "Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation"
+      url: "https://arxiv.org/abs/2406.02733"
+      authors: '%ME%, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee'
+      venue: "Findings of ACL 2024"
+      venue_url: "https://2024.aclweb.org/"
+      highlight: true
+
+- section: "2022"
+  papers:
+    - title: "HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis"
+      url: "https://nips.cc/Conferences/2022/Schedule?showEvent=54658"
+      authors: 'Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, %ME%, Seong-Whan Lee'
+      venue: "NeurIPS 2022"
+      venue_url: "https://nips.cc/"
+      highlight: true
+    - title: "Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems"
+      url: "https://arxiv.org/abs/2206.15067"
+      authors: 'Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, %ME%'
+      venue: "Interspeech 2022"
+      venue_url: "https://interspeech2022.org/"
+    - title: "TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis using Ranking Support Vector Machine with Variational Autoencoder"
+      url: "https://arxiv.org/abs/2206.14984"
+      authors: 'Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, %ME%, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim'
+      venue: "Interspeech 2022"
+      venue_url: "https://interspeech2022.org/"
+    - title: "Linear Prediction-based Parallel WaveGAN Speech Synthesis"
+      url: "https://ieeexplore.ieee.org/abstract/document/9748530/"
+      authors: '%ME%, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song'
+      venue: "ICEIC 2022"
+      venue_url: "https://iceic.org/2022/"
+    - title: "Effective Data Augmentation Methods for Neural Text-to-Speech Systems"
+      url: "https://ieeexplore.ieee.org/abstract/document/9748515"
+      authors: 'Suhyeon Oh, Ohsung Kwon, %ME%, Jae-Min Kim, Eunwoo Song'
+      venue: "ICEIC 2022"
+      venue_url: "https://iceic.org/2022/"
+
+- section: "2021"
+  papers:
+    - title: "High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model"
+      url: "https://sewplay.github.io/cv/papers/2021/IS210976.pdf"
+      authors: '%ME%\*, Ryuichi Yamamoto\*, Eunwoo Song, Jae-Min Kim'
+      venue: "Interspeech 2021"
+      venue_url: "https://www.interspeech2021.org/"
+      extra: "[[video]](https://youtu.be/4khu8MKlU-c)"
+    - title: "LiteTTS: A Lightweight Mel-Spectrogram-Free Text-to-Wave Synthesizer Based on Generative Adversarial Networks"
+      url: "https://sewplay.github.io/cv/papers/2021/IS210188.pdf"
+      authors: 'Huu-Kim Nguyen, Kihyuk Jeong, Seyun Um, %ME%, Eunwoo Song, Hong-Goo Kang'
+      venue: "Interspeech 2021"
+      venue_url: "https://www.interspeech2021.org/"
+    - title: "TTS-by-TTS: TTS-driven Data Augmentation for Fast and High-quality Speech Synthesis"
+      url: "https://ieeexplore.ieee.org/abstract/document/9414408"
+      authors: '%ME%, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim'
+      venue: "ICASSP 2021"
+      venue_url: "https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html"
+    - title: "Parallel Waveform Synthesis based on Generative Adversarial Networks with Voicing-aware Conditional Discriminators"
+      url: "https://ieeexplore.ieee.org/abstract/document/9413369"
+      authors: 'Ryuichi Yamamoto, Eunwoo Song, %ME%, Jae-Min Kim'
+      venue: "ICASSP 2021"
+      venue_url: "https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html"
+    - title: "Improved Parallel WaveGAN Vocoder with Perceptually Weighted Spectrogram Loss"
+      url: "https://arxiv.org/abs/2101.07412"
+      authors: 'Eunwoo Song, Ryuichi Yamamoto, %ME%, Jin-Seob Kim, Ohsung Kwon, Jae-Min Kim'
+      venue: "IEEE SLT Workshop 2021"
+      venue_url: "http://2021.ieeeslt.org/"
+
+- section: "2020"
+  papers:
+    - title: "ExcitGlow: Improving a WaveGlow-based Neural Vocoder with Linear Prediction Analysis"
+      url: "https://sewplay.github.io/cv/papers/2020/apsipa_0000831.pdf"
+      authors: 'Suhyeon Oh, Hyungseob Lim, Kyungguen Byun, %ME%, Eunwoo Song, Hong-Goo Kang'
+      venue: "APSIPA ASC 2020"
+      venue_url: "http://www.apsipa.org/proceedings/2020/APSIPA-ASC-2020.html"
+    - title: "LP-WaveNet: Linear Prediction-based WaveNet Speech Synthesis"
+      url: "https://arxiv.org/abs/1811.11913"
+      authors: '%ME%, Frank Soong, Eunwoo Song, Xi Wang, Hyeonjoo Kang, Hong-Goo Kang'
+      venue: "APSIPA ASC 2020"
+      venue_url: "http://www.apsipa.org/proceedings/2020/APSIPA-ASC-2020.html"
+    - title: "Neural Text-to-Speech with a Modeling-by-Generation Excitation Vocoder"
+      url: "https://arxiv.org/abs/2008.00132"
+      authors: 'Eunwoo Song, %ME%, Ryuichi Yamamoto, Jin-Seob Kim, Ohsung Kwon, Jae-Min Kim'
+      venue: "Interspeech 2020"
+      venue_url: "http://www.interspeech2020.org/"
+    - title: "Improving LPCNet-based Text-to-Speech with Linear Prediction-structured Mixture Density Network"
+      url: "https://ieeexplore.ieee.org/abstract/document/9053704"
+      authors: '%ME%, Eunwoo Song, Ryuichi Yamamoto, Frank Soong, Hong-Goo Kang'
+      venue: "ICASSP 2020"
+      venue_url: "https://2020.ieeeicassp.org/"
+
+- section: "2019"
+  papers:
+    - title: "Parameter Enhancement for MELP Speech Codec in Noisy Communication Environment"
+      url: "https://arxiv.org/abs/1906.08407"
+      authors: '%ME%, Hong-Goo Kang'
+      venue: "Interspeech 2019"
+      venue_url: "https://interspeech2019.org/"
+
+- section: "2018"
+  papers:
+    - title: "A Unified Framework for the Generation of Glottal Signals in Deep Learning-based Parametric Speech Synthesis Systems"
+      url: "https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/1590.pdf"
+      authors: '%ME%, Eunwoo Song, Jin-Seob Kim, Hong-Goo Kang'
+      venue: "Interspeech 2018"
+      venue_url: "https://interspeech2018.org/"
+    - title: "Modeling-by-Generation-structured Noise Compensation Algorithm for Glottal Vocoding Speech Synthesis System"
+      url: "https://sewplay.github.io/cv/papers/2018/icassp_0005669.pdf"
+      authors: '%ME%, Eunwoo Song, Kyungguen Byun, Hong-Goo Kang'
+      venue: "ICASSP 2018"
+      venue_url: "https://www.2018.ieeeicassp.org/2018.ieeeicassp.org/default-2.html"
+
+- section: "2017"
+  papers:
+    - title: "SVD-based Adaptive QIM Watermarking on Stereo Audio Signals"
+      url: "https://ieeexplore.ieee.org/abstract/document/7962215"
+      authors: '%ME%, JeeSok Lee, MiSuk Lee, Hong-Goo Kang'
+      venue: "IEEE Transactions on Multimedia"
+      venue_url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046"
+      venue_prefix: "Proceedings of"
+      venue_note: "(3.977 IF at 2017)"
