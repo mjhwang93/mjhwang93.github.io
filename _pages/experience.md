@@ -29,15 +29,14 @@ redirect_from:
 <span style="color:gray"><small>Feb. 2026 - Present</small></span>  
 **Senior Research Scientist**, **[Meta AI](https://ai.facebook.com/), New York, NY, USA**  
 <small>
-  &nbsp;&nbsp;&bull; Presently researching expressive conversational AI voice agent.  
-  &nbsp;&nbsp;&bull; Presently researching expressive speech-to-speech translation system.
+  &nbsp;&nbsp;&bull; Presently researching 3D avatar generation.
 </small>
 
 <span style="color:gray"><small>May. 2024 - Jan. 2026</small></span>  
 **Research Scientist**, **[Meta AI](https://ai.facebook.com/), Seattle, Washington, USA**  
 <small>
-  &nbsp;&nbsp;&bull; Researched expressive conversational AI voice agent.  
-  &nbsp;&nbsp;&bull; Researched expressive speech-to-speech translation system.
+  &nbsp;&nbsp;&bull; Built a voice dubbing system for Instagram Reels.  
+  &nbsp;&nbsp;&bull; Proposed [alignment-free Text-Audiobox](https://arxiv.org/abs/2609.03992) as its core system.
 </small>
 
 <span style="color:gray"><small>Oct. 2022 - May. 2024</small></span>  
